@@ -21,10 +21,17 @@ Mega Mass Downloader Tools is designed to automate mass downloading from Instagr
 
 ### 📂 Features
 
-1. **Instagram Downloader**: Download content from Instagram by running an external script (`instagram.py`) located in the `lib` folder.
-2. **YouTube Downloader**: Download videos from YouTube using an external script (`youtube.py`) in the `lib` folder.
-3. **Zip Folder Result**: Compress the downloaded content from Instagram or YouTube into a `.zip` file for easy management.
-4. **Easy-to-Use Menu**: The tool provides a command-line interface where you can choose options to download or zip content.
+1. **Instagram Downloader**
+    - **Videos Only**: Download only the video posts from a target Instagram profile.
+    - **Photos Only**: Download only the photo posts from a target Instagram profile.
+    - **Stories Only**: Fetch and download the active stories from the target profile.
+    - **Tagged Content**: Download posts in which the user is tagged.
+    - **Download All**: Fetch and download both photos and videos from the profile.
+2. **YouTube Downloader**
+    - **YouTube URL Input**: Allows users to download a single video by providing its YouTube URL.
+    - **Video or Audio**: The tool supports both **MP4** (video) and **MP3** (audio) formats. Users can specify their preferred file type.
+    - **High-Resolution Video**: The tool automatically selects the highest available resolution for video downloads.
+    - **Automatic File Naming**: The tool automatically cleans up the video title and replaces invalid characters to ensure proper file naming.
 
 ---
 
@@ -37,8 +44,14 @@ Mega Mass Downloader Tools is designed to automate mass downloading from Instagr
 #### Installation
 Clone the repository and install the dependencies:
 ```git clone https://github.com/dendve8/MediaBot/.git```
- 
+
+ ## 👨‍💻 Author
+
+**DENDVE8**
+
+- [![GitHub followers](https://img.shields.io/github/followers/DENDVE8?label=Follow&style=social)](https://github.com/DENDVE8)
+- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dendve8)
+
 ### 🤝 Contributing
  Feel free to open issues or submit pull requests if you'd like to contribute or improve the tool.
-
 

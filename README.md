@@ -36,7 +36,7 @@ Mega Mass Downloader Tools is designed to automate mass downloading from Instagr
   
 #### Installation
 Clone the repository and install the dependencies:
-```git clone https://github.com/your-username/mega-mass-downloader.git```
+```git clone https://github.com/dendve8/MediaBot/.git```
  
 ### 🤝 Contributing
  Feel free to open issues or submit pull requests if you'd like to contribute or improve the tool.

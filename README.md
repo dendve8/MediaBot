@@ -34,6 +34,7 @@ Mega Mass Downloader Tools is designed to automate mass downloading from Instagr
     - **Automatic File Naming**: The tool automatically cleans up the video title and replaces invalid characters to ensure proper file naming.
 
 ---
+![image](https://github.com/user-attachments/assets/0ae9c2cf-6f3c-499c-9c01-9d84e7b84c99)
 
 ### 🚀 Getting Started
 
